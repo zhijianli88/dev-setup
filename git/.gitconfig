@@ -1,0 +1,9 @@
+[user]
+	email = zhijianx.li@intel.com
+	name = Li Zhijian
+
+[core]
+[sendemail]
+	chainreplyto=true
+	smtpport=25
+	thread=true
