@@ -31,7 +31,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'vim-ruby/vim-ruby'
 
-Plugin 'fholgado/minibufexpl.vim'
+Plugin 'zhijianli88/minibufexpl.vim'
 
 Plugin 'fatih/vim-go'
 " All of your Plugins must be added before the following line
