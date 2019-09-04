@@ -117,3 +117,4 @@ set expandtab
 set ai
 set colorcolumn=80
 autocmd Filetype ruby setlocal ts=2 sw=2 expandtab
+autocmd Filetype sh setlocal noexpandtab
